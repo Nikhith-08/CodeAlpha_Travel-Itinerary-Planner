@@ -20,7 +20,6 @@ The **Travel Itinerary Planner** is a Java-based application designed to assist 
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
 
 
 ---
@@ -128,23 +127,4 @@ The **Travel Itinerary Planner** is a Java-based application designed to assist 
 4. Calculate Budget: View the total estimated budget for all destinations in your itinerary.
 5. Exit: End the application.
 
-### Contributing
-Contributions are welcome! Follow these steps to contribute:
-1. Fork the repository:
-
-   ```bash
-    git fork https://github.com/Nikhith-08/CodeAlpha_Travel-Itinerary-Planner.git
-2. Create a new branch:
-
-   ```bash
-    git checkout -b feature/YourFeature
-3. Commit your changes:
-
-   ```bash
-    git commit -m "Add new feature"
-4. Push to your branch:
-
-   ```bash
-    git push origin feature/YourFeature
-5. Submit a Pull Request: Open a pull request to merge your changes into the main branch.
 
